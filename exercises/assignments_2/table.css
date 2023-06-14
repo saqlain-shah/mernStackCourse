@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
 
 *, *:before, *:after {
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 1;
   box-sizing: border-box;
 }
 
