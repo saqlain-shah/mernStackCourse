@@ -5,6 +5,7 @@ import img3 from '../images/awais.png'
 import img4 from '../images/karamat.png'
 import img5 from '../images/imtiaz.png'
 
+
 const user = [
   {
     name: 'Usama',
